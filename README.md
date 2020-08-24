@@ -2,7 +2,7 @@ Este projeto utiliza os dados do [api.chucknorris.io](https://api.chucknorris.io
 
 ## Para que serve?
 
-Para visualizar e admirar os feitos do grande e magnânimo `Chuck Norris`
+Para visualizar e admirar os feitos do grande e magnânimo `Chuck Norris`.
 
 ## Por que?
 
