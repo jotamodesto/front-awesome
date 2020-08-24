@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/front-awesome/static/js/main.0323d1b1.chunk.js",
+    "main.js.map": "/front-awesome/static/js/main.0323d1b1.chunk.js.map",
+    "runtime-main.js": "/front-awesome/static/js/runtime-main.fdc146e1.js",
+    "runtime-main.js.map": "/front-awesome/static/js/runtime-main.fdc146e1.js.map",
+    "static/css/2.d22cd3da.chunk.css": "/front-awesome/static/css/2.d22cd3da.chunk.css",
+    "static/js/2.dd109f7b.chunk.js": "/front-awesome/static/js/2.dd109f7b.chunk.js",
+    "static/js/2.dd109f7b.chunk.js.map": "/front-awesome/static/js/2.dd109f7b.chunk.js.map",
+    "index.html": "/front-awesome/index.html",
+    "precache-manifest.e8ebcec69c4e4287f33e3e67fa16584e.js": "/front-awesome/precache-manifest.e8ebcec69c4e4287f33e3e67fa16584e.js",
+    "service-worker.js": "/front-awesome/service-worker.js",
+    "static/css/2.d22cd3da.chunk.css.map": "/front-awesome/static/css/2.d22cd3da.chunk.css.map",
+    "static/js/2.dd109f7b.chunk.js.LICENSE.txt": "/front-awesome/static/js/2.dd109f7b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/front-awesome/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdc146e1.js",
+    "static/css/2.d22cd3da.chunk.css",
+    "static/js/2.dd109f7b.chunk.js",
+    "static/js/main.0323d1b1.chunk.js"
+  ]
+}
